@@ -1,1 +1,1 @@
-11-lists lists all files even the hidden ones
+12-file_type prints the type of file named
