@@ -1,1 +1,1 @@
-7-movethatfile moves a file
+8-firstdelete removes a file
