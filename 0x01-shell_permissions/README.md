@@ -1,1 +1,1 @@
-6-multiple_permissions gives multiple permisions
+7-everybody gives multiple permissions
