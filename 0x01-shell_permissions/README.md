@@ -1,1 +1,1 @@
-5-execute adds executing permission to a file
+6-multiple_permissions gives multiple permisions
