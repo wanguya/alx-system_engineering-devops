@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod 007 8-James_Bond
+chmod u-r-w o+r+w+x 8-James_Bond
