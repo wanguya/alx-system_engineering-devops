@@ -1,1 +1,1 @@
-1-who_am_i plints out the effective user name
+2-groups prints all the groups of the current user
