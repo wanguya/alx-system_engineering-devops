@@ -1,2 +1,2 @@
 #!/bin/bash
-s="10100111001B",A=2,B=10
+echo $((2#$BINARY))
